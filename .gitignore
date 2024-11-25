@@ -1,8 +1,5 @@
-# files for local website testing via jekyll (assuming jekyll is installed by bundler
+# files for local website testing via jekyll (assuming jekyll is installed by bundler)
 .bundle/
-.sass-cache/
-Gemfile
-Gemfile.lock
 _site/
 vendor/
 
