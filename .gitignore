@@ -1,7 +1,2 @@
-# files for local website testing via jekyll (assuming jekyll is installed by bundler)
-.bundle/
-_site/
-vendor/
-
 # vim swap files
 *.swp
